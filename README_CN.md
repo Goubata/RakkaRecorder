@@ -164,4 +164,12 @@ A: 请确认 Root / Shizuku 权限正确。
 -   使用 Root / Shizuku 需自行承担风险
 -   APK 禁止修改或重新分发
 
-*Made by Rakkashin*
+---
+
+## Copyright
+
+Copyright © 2026 Rakkashin.  
+All Rights Reserved.
+
+The source code is private.  
+Modification, redistribution, or reverse engineering of the APK is prohibited.
