@@ -153,4 +153,12 @@ A: Ensure Root or Shizuku permissions are granted.
 -   Use Root/Shizuku at your own risk
 -   APK redistribution or modification is prohibited
 
-*Made by Rakkashin*
+---
+
+## Copyright
+
+Copyright © 2026 Rakkashin.  
+All Rights Reserved.
+
+The source code is private.  
+Modification, redistribution, or reverse engineering of the APK is prohibited.
