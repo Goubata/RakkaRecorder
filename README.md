@@ -1,6 +1,12 @@
 # RakkaRecorder
 RakkaRecorder - Free PerfRecorder
 
+CN   https://github.com/Goubata/RakkaRecorder/blob/main/README_CN.md
+
+EN
+https://github.com/Goubata/RakkaRecorder/blob/main/README_EN.md
+
+
 スマホのゲームとかアプリのパフォーマンスを計測して記録できる無料のAndroidアプリです。
 FPSとかCPU・GPUの使用率・温度、バッテリー消費とかが全部まとめて見れます。
 Root / Shizuku どちらでも動きます。
