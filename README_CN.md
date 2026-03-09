@@ -401,5 +401,3 @@ All Rights Reserved.
 
 The source code is private.
 Modification, redistribution, or reverse engineering of the APK is prohibited.
-
----
