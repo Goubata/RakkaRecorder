@@ -2,7 +2,8 @@
 
 RakkaRecorder - Free PerfRecorder
 
-JP   [https://github.com/Goubata/RakkaRecorder/blob/main/README.md](https://github.com/Goubata/RakkaRecorder/blob/main/README.md)
+JA   [https://github.com/Goubata/RakkaRecorder/blob/main/README.md](https://github.com/Goubata/RakkaRecorder/blob/main/README.md)
+
 EN   [https://github.com/Goubata/RakkaRecorder/blob/main/README_EN.md](https://github.com/Goubata/RakkaRecorder/blob/main/README_EN.md)
 
 一个免费的 Android 性能记录应用，可以测量并记录手机游戏或应用的性能。
